@@ -41,7 +41,7 @@ or
 -> deploy pushes the contents of the dist directory to the gh-pages branch.
 
 ------------------------Build and Deploy Your App------------------------
-**_ You have to run this command everytime you want to update the deployed site _**
+/**/ You have to run this command everytime you want to update the deployed site /**/
 
 npm run deploy
 
