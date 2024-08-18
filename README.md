@@ -37,10 +37,10 @@ or
 "deploy": "gh-pages -d dist"
 }
 
--> predeploy runs the build process before deploying.
--> deploy pushes the contents of the dist directory to the gh-pages branch.
+- predeploy runs the build process before deploying.
+- deploy pushes the contents of the dist directory to the gh-pages branch.
 
-**Build and Deploy Your App**
+> **Build and Deploy Your App**
 
 **_ You have to run this command everytime you want to update the deployed site _**
 
@@ -48,10 +48,10 @@ npm run deploy
 
 Above command will:
 
-->Build the Vite app.
--> Push the build output to a branch named gh-pages.
+- Build the Vite app.
+- Push the build output to a branch named gh-pages.
 
-**Configure GitHub Pages**
+> **Configure GitHub Pages**
 
 1. Go to your repository on GitHub.
 2. Navigate to Settings > Pages.
